@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<admins>
+	<admin>
+		<fullname>Admin</fullname>
+		<username>admin</username>
+		<password>freshone</password>
+		<gender>Female</gender>
+        <contact>01704567890</contact>
+        <city>Dhaka</city>
+	</admin>
+<admin><fullName>Sunity</fullName><userName>sunity_m</userName><password>00110011</password><gender>on</gender><mail>sunity.khan1481@gmail.com</mail><contact>01704567890</contact><city>Dhaka</city></admin></admins>
